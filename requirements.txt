@@ -28,3 +28,7 @@ scikit-learn
 
 #UI
 streamlit
+
+#AI Output validation
+pydantic
+pydantic[email]
