@@ -1,6 +1,7 @@
 from pydantic import BaseModel, EmailStr, Field
 from typing import Optional
 
+# pydantic object
 class Student(BaseModel):
     name:str
     age:Optional[int]=None
