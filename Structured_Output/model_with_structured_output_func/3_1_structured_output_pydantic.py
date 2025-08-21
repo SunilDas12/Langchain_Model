@@ -15,7 +15,7 @@ model=AzureChatOpenAI(
         max_tokens=1000,
         seed=42,
 )
-
+# pydantic object
 class Review(BaseModel):
     key_themes: list[str] = Field(description="List of key themes extracted from the review")
     summary: str = Field(description="A brief summary of the review")
