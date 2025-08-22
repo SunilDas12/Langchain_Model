@@ -1,0 +1,14 @@
+LCEL (LangChain Expression Language)
+
+Is a declarative way to build chains in LangChain.
+Instead of writing a lot of procedural code, you can compose prompts, models, and parsers using the | (pipe) operator.
+
+Why LCEL?
+
+Readable → Chains look like a flow of data.
+Composable → You can easily swap or extend components.
+Efficient → Handles streaming, async, and batching automatically.
+
+
+# LCEL chain
+chain = prompt | model | parser
