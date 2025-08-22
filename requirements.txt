@@ -32,3 +32,6 @@ streamlit
 #AI Output validation
 pydantic
 pydantic[email]
+
+# To visualize Chain sequence
+grandalf
