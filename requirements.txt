@@ -35,3 +35,10 @@ pydantic[email]
 
 # To visualize Chain sequence
 grandalf
+
+# Document Loader
+langchain-community
+pyPDF
+beautifulsoup4 lxml
+
+
