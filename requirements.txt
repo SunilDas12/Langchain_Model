@@ -41,4 +41,9 @@ langchain-community
 pyPDF
 beautifulsoup4 lxml
 
+# vector store
+langchain-chroma
+chromadb
+tiktoken
+
 
