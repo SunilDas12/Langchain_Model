@@ -46,4 +46,7 @@ langchain-chroma
 chromadb
 tiktoken
 
+#Retriever
+faiss-cpu
+wikipedia
 
