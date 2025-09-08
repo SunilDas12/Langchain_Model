@@ -53,3 +53,5 @@ wikipedia
 #Tools
 duckduckgo-search
 langchain_experimental
+
+requests

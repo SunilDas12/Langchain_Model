@@ -8,3 +8,6 @@ https://chunkviz.up.railway.app/
 
 # Different Retrievers
 https://python.langchain.com/docs/integrations/retrievers/
+
+# ExchangeRate API
+https://www.exchangerate-api.com/
