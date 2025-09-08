@@ -50,3 +50,6 @@ tiktoken
 faiss-cpu
 wikipedia
 
+#Tools
+duckduckgo-search
+langchain_experimental
