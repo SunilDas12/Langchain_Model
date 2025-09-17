@@ -11,3 +11,9 @@ https://python.langchain.com/docs/integrations/retrievers/
 
 # ExchangeRate API
 https://www.exchangerate-api.com/
+
+# WeatherStack API
+https://weatherstack.com/documentation
+
+# Langchain Hub
+https://smith.langchain.com/hub
