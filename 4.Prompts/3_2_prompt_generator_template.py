@@ -1,6 +1,6 @@
 from langchain_core.prompts import PromptTemplate
 
-#Copied: 1_dynamic_prompt
+#Copied: 3_1_dynamic_prompt
 
 # Prompt template
 template= PromptTemplate(
